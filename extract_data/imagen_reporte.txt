@@ -1,0 +1,7 @@
+ResolutionUnit: 2
+ExifOffset: 172
+Software: Adobe Photoshop CC 2017 (Macintosh)
+Orientation: 1
+DateTime: 2021:11:01 14:02:07
+XResolution: 72.0
+YResolution: 72.0
